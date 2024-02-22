@@ -1,3 +1,0 @@
-#dockerfile, image, docker container
-
-
