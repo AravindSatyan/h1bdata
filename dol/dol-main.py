@@ -48,8 +48,6 @@ def convert_decimal128(obj):
         return Decimal128(str(obj))
     return obj
 
-
-
 def load_data(df):
     with open (r'{}'.format(df),mode = 'r', encoding = 'utf-8-sig') as file:
         array_items = ijson.items(file, 'item')
