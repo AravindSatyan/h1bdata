@@ -1,4 +1,6 @@
 .venv
 dol/support_files
 dol/final
+data-scraped_files_json
+data-scraped_files_raw
 
