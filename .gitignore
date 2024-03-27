@@ -5,5 +5,7 @@ data-scraped_files_json
 data-scraped_files_raw
 *.xlsx
 dol/first_pq.gzip
+dol/dolh1bvenv
+
 
 
